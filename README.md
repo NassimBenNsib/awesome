@@ -55,3 +55,27 @@
 -  https://www.kaggle.com/
 -  https://data.go/
 -  https://github.com/awesomedata/awesome-public-datasets
+
+# Learning
+- Courses
+  -  https://www.classcentral.com/
+  -  https://www.codedex.io/
+  -  https://www.udemy.com/
+  -  https://laracasts.com/
+  -  https://kodekloud.com/
+  -  https://www.geeksforgeeks.org/
+  -  https://www.sololearn.com/
+  -  https://www.codecademy.com/
+
+- Web
+-  https://css-tricks.com/
+
+- Coding & Training
+-  https://www.codewars.com/
+-  https://codeforces.com/
+-  https://www.codingame.com/
+-  https://leetcode.com/
+-  https://cssbattle.dev/
+-  https://cssbattle.dev/
+-  https://flexboxfroggy.com/
+-  https://usaco.guide/
