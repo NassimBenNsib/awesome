@@ -28,6 +28,7 @@
 -
 ### Charts
 - https://apexcharts.com/
+- anychart.com
 
 ### Mobile
 - https://reactnative.dev/
